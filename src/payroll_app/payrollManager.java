@@ -37,7 +37,7 @@ public class payrollManager {
 
             employee.displayInfo();
             System.out.println("Deductions: R" + deductions 
-                    + "Net Salary: R" + netSalary);
+                    + "\nNet Salary: R" + netSalary);
             System.out.println();
         }
     
